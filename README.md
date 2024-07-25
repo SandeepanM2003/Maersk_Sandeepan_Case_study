@@ -20,3 +20,15 @@ To run the provided code, you need to have Python installed on your system along
 
    ```sh
    pip install simpy
+### Step 3: Create a Python Script
+Open a text editor or an Integrated Development Environment (IDE) like VS Code, PyCharm, or any other code editor.
+Create a new file and name it container_terminal_simulation.py.
+Copy and paste the provided Python code into this file.
+### Step 4: Run the Script
+Save the file and go back to your terminal or command prompt.
+Navigate to the directory where you saved test.py.
+Run the script by executing:
+```sh
+python test.py
+
+### Added the screenshot of the output in this repo
