@@ -1,7 +1,8 @@
 # Maersk_Sandeepan_Case_study
-# Container Terminal Simulation
+
 
 This repository contains a simulation of a container terminal using SimPy, a process-based discrete-event simulation framework based on standard Python.
+# Added the screenshot of the output in this repo
 
 ## Setup Instructions
 
@@ -28,7 +29,8 @@ Copy and paste the provided Python code into this file.
 Save the file and go back to your terminal or command prompt.
 Navigate to the directory where you saved test.py.
 Run the script by executing:
+
+
 ```sh
 python test.py
 
-### Added the screenshot of the output in this repo
