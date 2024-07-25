@@ -1,0 +1,11 @@
+Vessel Class: Represents a vessel arriving at the terminal, berthing, and unloading containers.
+
+arrive: Handles the arrival and berthing of the vessel.
+unload: Manages the unloading process using a quay crane and trucks.
+Terminal Class: Represents the container terminal with berths, quay cranes, and trucks.
+
+Vessel Generator: Continuously generates vessels arriving at the terminal based on an exponential distribution.
+
+Simulation Setup: Creates the SimPy environment and terminal, starts the vessel generator, and runs the simulation for a specified time.
+
+This code follows best practices such as modular design, use of classes to encapsulate behavior, and clear logging for simulation events. Adjust SIMULATION_TIME as needed to run the simulation for different durations.
